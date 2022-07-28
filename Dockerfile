@@ -1,4 +1,4 @@
-FROM ubi8
+FROM centos
 MAINTAINER Sabry <mohammed.sabry@ibm.com> 
 
 # Install cool software
